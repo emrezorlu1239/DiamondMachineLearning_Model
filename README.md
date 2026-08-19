@@ -43,4 +43,4 @@ You can use the built-in appraisal function to get an instant market estimate:
 ```python
 # Example Usage:
 # predict_diamond_price(carat=1.5, cut=4, color=4, clarity=4, depth=61.5, table=58, x=7.3, y=7.2, z=4.5)
-# Output: 💰 ESTIMATED MARKET VALUE: $12,095.02
+# Output: 💰 ESTIMATED MARKET VALUE: $12,095.02 
